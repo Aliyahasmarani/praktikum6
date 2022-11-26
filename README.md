@@ -141,3 +141,6 @@ nilai dengan pendekatan "Key-Value".
 
 ![gambar10](gambar/al8.png)
 
+## FLOWCHART
+![gambar11](gambar/al11.png)
+
